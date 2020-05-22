@@ -39,6 +39,8 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: Recordings
+  url: /recordings/
 
 # Footer nav
 navigation_footer:
